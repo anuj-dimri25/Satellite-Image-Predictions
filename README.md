@@ -1,5 +1,5 @@
 # Satellite-Image-Predictions
-Using Markov Random Field for Image Prediction and Super Resolution Mapping
+## Using Markov Random Field for Image Prediction and Super Resolution Mapping
 
 ![capture1](https://user-images.githubusercontent.com/32442727/34400823-5ecd2ce4-eb52-11e7-8100-f3b08bc6759f.PNG)
 
